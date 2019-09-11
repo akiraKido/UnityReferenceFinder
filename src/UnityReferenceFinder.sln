@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityReferenceFinder.Cli", "UnityReferenceFinder.Cli\UnityReferenceFinder.Cli.csproj", "{FCE6BD8D-7EC6-4786-BFC2-08651EFCD79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityReferenceFinder.YamlParser", "UnityReferenceFinder.YamlParser\UnityReferenceFinder.YamlParser.csproj", "{FF5E0FA5-F58F-4C49-B6DF-726C7690C2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityReferenceFinder.YamlParser.Tests", "UnityReferenceFinder.YamlParser.Tests\UnityReferenceFinder.YamlParser.Tests.csproj", "{8C6289D0-C30C-4A9B-BA40-6575E8944210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE6BD8D-7EC6-4786-BFC2-08651EFCD79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE6BD8D-7EC6-4786-BFC2-08651EFCD79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE6BD8D-7EC6-4786-BFC2-08651EFCD79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE6BD8D-7EC6-4786-BFC2-08651EFCD79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5E0FA5-F58F-4C49-B6DF-726C7690C2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5E0FA5-F58F-4C49-B6DF-726C7690C2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5E0FA5-F58F-4C49-B6DF-726C7690C2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5E0FA5-F58F-4C49-B6DF-726C7690C2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6289D0-C30C-4A9B-BA40-6575E8944210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6289D0-C30C-4A9B-BA40-6575E8944210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6289D0-C30C-4A9B-BA40-6575E8944210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6289D0-C30C-4A9B-BA40-6575E8944210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

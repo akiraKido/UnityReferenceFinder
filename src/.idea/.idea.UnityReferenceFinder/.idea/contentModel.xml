@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dohi\.nuget\packages\microsoft.net.test.sdk\16.0.1\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\dohi\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\dohi\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\dohi\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\dohi\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dohi\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_UnityReferenceFinder.1181606716.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dohi\Documents\private\UnityReferenceFinder" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UnityReferenceFinder.Cli" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="UnityReferenceFinder.Cli.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="UnityReferenceFinder.Cli.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="UnityReferenceFinder.sln" t="IncludeFlat" />
+      <e p="UnityReferenceFinder.YamlParser" t="IncludeRecursive">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lexers" t="Include">
+          <e p="Lexer.cs" t="Include" />
+          <e p="LexerType.cs" t="Include" />
+        </e>
+        <e p="Nodes" t="Include">
+          <e p="UnityScene.cs" t="Include" />
+          <e p="UnityYamlFile.cs" t="Include" />
+          <e p="YamlList.cs" t="Include" />
+          <e p="YamlNode.cs" t="Include" />
+          <e p="YamlNodeType.cs" t="Include" />
+          <e p="YamlObject.cs" t="Include" />
+          <e p="YamlScalar.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="UnityReferenceFinder.YamlParser.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Parser.cs" t="Include" />
+        <e p="ParserPartials" t="Include">
+          <e p="CollectionParsers.cs" t="Include" />
+          <e p="FileParser.cs" t="Include" />
+          <e p="UnityDeclarationParser.cs" t="Include" />
+        </e>
+        <e p="ReadOnlySpanExtensions.cs" t="Include" />
+        <e p="UnityReferenceFinder.YamlParser.csproj" t="IncludeRecursive" />
+        <e p="UnityReferenceFinder.YamlParser.csproj.DotSettings" t="Include" />
+      </e>
+      <e p="UnityReferenceFinder.YamlParser.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LexerTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="UnityReferenceFinder.YamlParser.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ParserTests.cs" t="Include" />
+        <e p="UnitTest1.cs" t="Include" />
+        <e p="UnityReferenceFinder.YamlParser.Tests.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
